@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "497514008059",
+    "project_id": "cnotify-flutter-example",
+    "storage_bucket": "cnotify-flutter-example.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497514008059:android:35ea78f7a0893465a54f5e",
+        "android_client_info": {
+          "package_name": "com.example.cnotify_flutter_example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp4OsRrb0FoqwyGaNqIUqVmyH-i80_7WQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

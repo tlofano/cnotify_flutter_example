@@ -1,6 +1,10 @@
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_cnotify_sdk/cnotify_sdk.dart';
 
-void main() {
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await CNotifySdk().init(testing: kDebugMode);
   runApp(const MyApp());
 }
 
