@@ -1,16 +1,7 @@
-# cnotify_flutter_example
+# CNotify - Flutter App Example
 
-A new Flutter project.
+This repository contains a Flutter application that implements the **CNotify SDK** to receive scheduled notifications from the platform.
 
-## Getting Started
+**CNotify** allows you to create unlimited recurring notifications that can be scheduled using a *No Code* interface, as easily as scheduling an event in G Calendar. For more details about CNotify, visit its [website](https://cnotify.me) and for more technical information, check out the [documentation](https://docs.cnotify.me) (also available in Spanish).
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The detailed step-by-step guide to integrate the SDK into a Flutter application is available in the [SDK → Flutter](https://docs.cnotify.me/#/tutorials/SDKs/flutter/flutter) section.
