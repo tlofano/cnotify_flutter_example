@@ -66,10 +66,10 @@ packages:
     dependency: "direct main"
     description:
       name: flutter_cnotify_sdk
-      sha256: a87d6a93fbf9f9593c9b4f4d44109318ecdc43d6559c0aad605a65724834e9c9
+      sha256: "91fa648f5be482c1329035a5d068f097768a6924ed331220417a80cc0521bf50"
       url: "https://pub.dev"
     source: hosted
-    version: "0.4.1"
+    version: "0.4.4"
   flutter_lints:
     dependency: "direct dev"
     description:

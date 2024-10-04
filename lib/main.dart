@@ -4,7 +4,7 @@ import 'package:flutter_cnotify_sdk/cnotify_sdk.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  await CNotifySdk().init(testing: kDebugMode);
+  await CNotifySdk.init(testing: kDebugMode);
   runApp(const MyApp());
 }
 
